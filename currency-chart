@@ -1,0 +1,22 @@
+<html>
+<head>
+</head>
+<body>
+  <!-- EXCHANGERATES.ORG.UK CHART WIDGET START -->
+<div style="width:178px;margin:0;padding:0;border:1px solid #1F7129;background:#FFFFFF;">
+<div style="width:174px;text-align:center;margin:2px;padding:2px 0px;background:#1F7129;font-family:;font-size:11px;color:#FFFFFF;font-weight:bold;vertical-align:middle;">
+<a rel="nofollow" style="color:#FFFFFF;text-decoration:none;text-transform:uppercase;" href="https://www.exchangerates.org.uk/Pounds-to-Singapore-Dollars-currency-conversion-page.html" target="_new" title="GBP SGD">GBP SGD</a> CHARTS
+</div>
+<div style="padding:2px;">
+<script type="text/javascript">	
+var dcf = 'GBP';
+var dct = 'SGD';
+var mcol = '1F7129';
+var mbg = 'FFFFFF';
+var tc = 'FFFFFF';
+var tz = 'userset';
+
+</script><script type="text/javascript" src="https://www.currency.me.uk/remote/ER-CHART-1.php"></script></div></div>
+<!-- EXCHANGERATES.ORG.UK CHART WIDGET END --> 
+</body>
+</html>
